@@ -1,0 +1,5 @@
+homepage: "https://powerclick.io"
+documentation: "https://github.com/datasift-io/powerclick-meta-capi#readme"
+versions:
+  - sha: 31b0e69e7fc2ee0a11a07a12bc2f1d226f480584
+    changeNotes: Initial release.
